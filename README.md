@@ -14,3 +14,7 @@ ALMA project related issues.
 
 - [Developer Manual @ roboticslab-uc3m](https://robots.uc3m.es/developer-manual)
 - <https://apps-robots.uc3m.es/robots/wiki/Llegar_al_Parque>
+
+## GANTT
+
+![fig/alma-gantt.png](fig/alma-gantt.png)
