@@ -4,7 +4,8 @@ ALMA project related issues.
 
 ## GitHub Links
 
-- GitHub Project: [[ALMA]](https://github.com/orgs/roboticslab-uc3m/projects/16)
+- Project: [[ALMA]](https://github.com/orgs/roboticslab-uc3m/projects/16)
+- <https://github.com/orgs/roboticslab-uc3m/teams/alma/repositories>
 
 ## Relevant Documentation and Link to Google Drive
 
