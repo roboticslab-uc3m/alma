@@ -18,7 +18,7 @@ ALMA project related issues.
 
 ## Deliverables (UC3M)
 
-- D7.4 - Design of the benchmark tested for robotized ironing and garment folding - Initial - Demonstrator - Public - M36 (08/23)
+- D7.5 - Design of the benchmark tested for robotized ironing and garment folding - Initial - Demonstrator - Public - M36 (08/23)
 - D7.6 - Design of the benchmark tested for robotized ironing and garment folding - Final - Demonstrator - Public - M48 (08/24)
 
 ## GANTT
