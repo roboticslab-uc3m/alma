@@ -1,8 +1,8 @@
 # ALMA
 
-ALMA: Human Centric Algebraic Machine Learning
-Grant agreement ID: 952091
-<https://cordis.europa.eu/project/id/952091>
+- ALMA: Human Centric Algebraic Machine Learning
+- Grant agreement ID: 952091
+- <https://cordis.europa.eu/project/id/952091>
 
 ## Public Repositories
 
