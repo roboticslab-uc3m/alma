@@ -1,11 +1,15 @@
 # ALMA
 
-ALMA project related issues.
+ALMA: Human Centric Algebraic Machine Learning
+Grant agreement ID: 952091
 
-## GitHub Links
+## Public Repositories
 
-- Project: [[ALMA]](https://github.com/orgs/roboticslab-uc3m/projects/16)
-- <https://github.com/orgs/roboticslab-uc3m/teams/alma/repositories>
+- Algebraic Machine Learning (AML) applied algoritms: https://github.com/roboticslab-uc3m/alma-aml
+- Robotic environments for applying AML algorithms: https://github.com/roboticslab-uc3m/gymnasium-alma
+- Baseline deep neural network for comparison on robotic folding: https://github.com/roboticslab-uc3m/alma-dnn
+- Dataset generator to train AML algorithm for robotic folding: https://github.com/roboticslab-uc3m/alma-dataset
+    - Generated dataset: https://doi.org/10.5281/zenodo.14864392
 
 ## Relevant Documentation and Link to Google Drive
 
