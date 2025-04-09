@@ -11,6 +11,11 @@ Grant agreement ID: 952091
 - Baseline deep neural network for comparison on robotic folding: https://github.com/roboticslab-uc3m/alma-dnn
 - Dataset generator to train AML algorithm for robotic folding: https://github.com/roboticslab-uc3m/alma-dataset
     - Generated dataset: https://doi.org/10.5281/zenodo.14864392
+ 
+## Publications
+
+- Stephen Fox and Juan G. Victores. Safety of human–artificial intelligence systems: Applying safety science to analyze loopholes in interactions between human organizations, artificial intelligence, and individual people. Informatics, 2024. doi: 10.3390/informatics11020036. URL <https://doi.org/10.3390/informatics11020036> (Q2)
+- Juan G. Victores et Al. Algebraic Machine Learning for Robotic Garment Folding/Unfolding. Simposio CEA de Robótica, Bioingeniería, Visión Artificial y Automática Marina, 2025. (Upcoming)
 
 ## Relevant Documentation and Link to Google Drive
 
