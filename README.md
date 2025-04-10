@@ -6,7 +6,7 @@
 
 ## Public Repositories
 
-- Algebraic Machine Learning (AML) applied algoritms: https://github.com/roboticslab-uc3m/alma-aml
+- Algebraic Machine Learning (AML) applied algorithms: https://github.com/roboticslab-uc3m/alma-aml
 - Robotic environments for applying AML algorithms: https://github.com/roboticslab-uc3m/gymnasium-alma
 - Baseline deep neural network for comparison on robotic folding: https://github.com/roboticslab-uc3m/alma-dnn
 - Dataset generator to train AML algorithm for robotic folding: https://github.com/roboticslab-uc3m/alma-dataset
